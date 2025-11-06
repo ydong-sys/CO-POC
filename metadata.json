@@ -1,0 +1,5 @@
+{
+  "name": "Offsite Prototype - Content Optimization",
+  "description": "A user interface replicating the Coursera course management dashboard, allowing users to view, search, and filter their courses.",
+  "requestFramePermissions": []
+}
